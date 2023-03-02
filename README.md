@@ -1,7 +1,7 @@
 # PPSG
 Photorealistic Parametric Scene Generator (Blender API) source, Python
 
-## Welcome to the Photorealistic Parametric Scene Generator, a Python suite designed to generate and morph random objects, environments, and scenes!
+### Welcome to the Photorealistic Parametric Scene Generator, a Python suite designed to generate and morph random objects, environments, and scenes!
 
 PPSG relies upon communication with a SQL database for image generation, extracting vertex and face information generated using a complementary Java-based system to assemble base meshes. Scene details are extracted from and written to SQL database ```databaseName``` at ```databaseIP``` (see ```config.py```).
 
